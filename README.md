@@ -1,6 +1,6 @@
 ##  **` Welcome to my GitHub `**
 
-### **` 👩🏻‍💻 BelBorba `**  **` Front-end Developer `**  **` UI/UX `** 
+### 👩🏻‍💻 **`BelBorba`**  💜 **`Front-end Developer`**  💜 **`UI/UX`** 
 
 ```
 I have been working as a Web Designer for the past three years, using low-code tools
@@ -20,4 +20,4 @@ deepening my knowledge in React.js. I aim to specialize in React Native.
 
 <br/>
 
-<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belborba&theme=dark&layout=compact&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=9"/>
+<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belborba&theme=tokyonight&layout=compact&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=9"/>
