@@ -20,4 +20,4 @@ deepening my knowledge in React.js. I aim to specialize in React Native.
 
 <br/>
 
-<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belborba&theme=tokyonight&layout=compact&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=9"/>
+<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belborba&theme=tokyonight&layout=compact&title_color=ffffff&text_color=ffffff&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=9"/>
