@@ -1,39 +1,24 @@
-## 👩🏻‍💻 Welcome to my GitHub!
+##  **` Welcome to my GitHub `**
+<br/>
 
-**`Isabel Borba`**  **` Front-end Developer `**  **` UI/UX `**
+#### **` 👩🏻‍💻 Isabel Borba `**  **` Front-end Developer `**  **` UI/UX `** 
+
+```
+I have been working as a Web Designer for the past three years, using low-code tools
+to create user interfaces. Currently, I'm transitioning into Front-end Development and
+deepening my knowledge in React.js. I aim to specialize in React Native.
+```
+![TechStack](https://img.shields.io/badge/My%20Tech%20Stack-8A2BE2?logo=htmx&logoColor=f5f5f5)
+![HTML](https://img.shields.io/badge/%20Html-41454A?logo=html5&logoColor=f5f5f5)
+![Css](https://img.shields.io/badge/%20Css-41454A?logo=css&logoColor=f5f5f5)
+![Js](https://img.shields.io/badge/%20Javascript-41454A?logo=javascript&logoColor=f5f5f5) 
+![TypeScript](https://img.shields.io/badge/%20TypeScript-41454A?logo=TypeScript&logoColor=f5f5f5) 
+![React](https://img.shields.io/badge/React.js-41454A?logo=react&logoColor=f5f5f5)
+![tAILwID](https://img.shields.io/badge/%20TailWind-41454A?logo=tailwindcss&logoColor=f5f5f5)
+<br/>
+![Studying](https://img.shields.io/badge/Studyng-8A2BE2?logo=htmx&logoColor=f5f5f5)
+![Jest](https://img.shields.io/badge/Jest-41454A?logo=jest&logoColor=f5f5f5)
 
 <br/>
 
-I have been working as a Web Designer for the past three years, using low-code tools to create user interfaces. Currently, I'm transitioning into Front-end Development and deepening my knowledge in React.js. I aim to specialize in React Native.
-<br/><br/>
-
-<table>
-  <tr>
-    <td valign="top" width="300px">
-
-**` My Tech Stack `**
-        
-<img alt="HTML" title="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-<img alt="CSS" title="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /> 
-<img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-<img alt="TypeScript" title="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-<img alt="React" title="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
-<img alt="Tailwind" title="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
-<img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-<img alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-
-<br/>
-<br/>
-
-**` Studyng `**
-      
-<img alt="Jest" title="Jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-    </td>
-    <td valign="center">
-      <img 
-        alt="GitHub Stats" height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=belborba&theme=dark&layout=compact&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=9" 
-      />
-    </td>
-  </tr>
-</table>
+<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belborba&theme=dark&layout=compact&hide_border=true&custom_title=Most%20Used%20Languages&langs_count=9"/>
