@@ -2,8 +2,7 @@
 
 **`Front End Developer`**
 
-I have been working as a Web Designer for the past three years, using low-code tools to create user interfaces.  
-Currently, I'm transitioning into Front-end Development and deepening my knowledge in React.js. I aim to specialize in React Native.
+I have been working as a Web Designer for the past three years, using low-code tools to create user interfaces. Currently, I'm transitioning into Front-end Development and deepening my knowledge in React.js. I aim to specialize in React Native.
 <br/><br/>
 
 ## My Tech Stack
@@ -16,6 +15,7 @@ Currently, I'm transitioning into Front-end Development and deepening my knowled
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
     alt="CSS" 
@@ -75,7 +75,14 @@ Currently, I'm transitioning into Front-end Development and deepening my knowled
 
 <br/>
 <br/>
+<br/>
+
+## Statistics
+<img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belborba&theme=dark&layout=compact&&hide_border=true&custom_title=Most&nbsp;Used&nbsp;Languages&langs_count=9"/>
+
 
 ## Currently Studying
-<img align="left" alt="Jest" title="Jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+<img alt="Jest" title="Jest" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+
+
 
