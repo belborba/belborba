@@ -75,17 +75,17 @@ I have been working as a Web Designer for the past three years, using low-code t
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" 
 />
 
-<br/>
-<br/>
+<br/><br/>
+**`Studying`**
+
+<img alt="Jest" title="Jest" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
+
+
 <br/>
 
 **` Statistics `**
 <br/>
 <img alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belborba&theme=dark&layout=compact&&hide_border=true&custom_title=Most&nbsp;Used&nbsp;Languages&langs_count=9"/>
-
-**` Currently Studying `**
-
-<img alt="Jest" title="Jest" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg"/>
 
 
 
