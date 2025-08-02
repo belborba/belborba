@@ -1,5 +1,4 @@
 ##  **` Welcome to my GitHub `**
-<br/>
 
 #### **` 👩🏻‍💻 Isabel Borba `**  **` Front-end Developer `**  **` UI/UX `** 
 
