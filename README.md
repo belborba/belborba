@@ -1,6 +1,6 @@
 ##  **` Welcome to my GitHub `**
 
-#### **` 👩🏻‍💻BelBorba `**  **` Front-end Developer `**  **` UI/UX `** 
+### **` 👩🏻‍💻 BelBorba `**  **` Front-end Developer `**  **` UI/UX `** 
 
 ```
 I have been working as a Web Designer for the past three years, using low-code tools
